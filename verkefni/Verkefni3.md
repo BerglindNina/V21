@@ -9,7 +9,7 @@ Merktu lyklakippuna með þínu nafni (nafnið þitt á að koma í stað BEAUX)
 ---
 
 ### Þráðlaus fjarstýring fyrir bíl (10%)
-Hannaðu fjarstýringu fyrir bílinn sem við eigum eftir að setja saman. Notaðu forrit t.d. TinkerCad og/eða 360 Fusion fyrir 3D prentun. Fjarstýring þarf að vera rúnuð, falla vel að hendi eða höndum og rými þarf að vera vel skipulagt. 
+Hannaðu fjarstýringu fyrir bílinn sem við eigum eftir að setja saman. Notaðu forrit t.d. TinkerCad og/eða 360 Fusion fyrir 3D prentun. Fjarstýring þarf að vera **rúnuð**, falla vel að hendi eða höndum og rými þarf að vera vel skipulagt. 
 
 
 #### Íhlutir sem þurfa að vera í fjarstýringunni:
