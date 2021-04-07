@@ -1,4 +1,4 @@
-# Verkefni 4 - Mótorar (7%) - DRÖG
+# Verkefni 4 - Mótorar (7%) - Í VINNSLU
 
 Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem inniheldur eftirfarandi:
 
