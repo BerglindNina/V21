@@ -27,7 +27,7 @@ Smelltu á Raw hér fyrir ofan og afritaðu svo textann í wiki síðuna þína 
 
 ---
 
-## 4.4. DC Motors (1%)
+## 4.3. DC Motors (1%)
 
 - [Hlekkur á myndband]()
 - [Hlekkur á kóða]()
@@ -41,7 +41,7 @@ Smelltu á Raw hér fyrir ofan og afritaðu svo textann í wiki síðuna þína 
 
 ---
 
-## 4.5. H-Bridge (1%)
+## 4.4. H-Bridge (1%)
 
 1. Hvað er hægt að gera með L293D?
    - Svar:
@@ -50,7 +50,7 @@ Smelltu á Raw hér fyrir ofan og afritaðu svo textann í wiki síðuna þína 
 
 ---
 
-## 4.6. DC motor reversing (2%)
+## 4.5. DC motor reversing (2%)
 
 [Hlekkur á myndband]()
 
