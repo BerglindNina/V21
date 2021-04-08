@@ -1,4 +1,4 @@
-# Verkefni 4 - Mótorar (7%) - Í VINNSLU
+# Verkefni 4 - Mótorar (7%)
 
 Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem inniheldur eftirfarandi:
 
@@ -7,21 +7,24 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem i
   - Mundu að láta nafnið þitt og dagsetningu koma fram í myndbandinu.
 - Tengla á kóðaskrár sem þú notar í verklegum verkefnum.
 
-## 4.1. Rafþéttar (e. capasitors) (1%)
+## 4.1. Rafþéttar (e. capasitors) og Transistorar (1%)
 
 1. Kynntu þér rafþétta (e. capasitors):
    - [Circuit Playground: C is for Capacitor (myndband, 7 mín.)](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
-   - [Capacitors](https://www.instructables.com/lesson/Capacitors-2/)
-1. Hver er munurinn á rafhlöðu og rafþétti?
-  
-## 4.2. Transistorar (1%)
-
+    1. Hver er munurinn á rafhlöðu og rafþétti?
 1. Kynntu þér [Transistora](https://www.instructables.com/lesson/Transistors/).
 1. Svaraðu eftirfarandi spurningum:
     1. Hvað gerir transistor?
-    1. Hver er munurinn á NPN og PNP transistorum?
+    1. Hvað heita lappirnar á transistor?
 
-## 4.3. DC Motors (2%)
+## 4.2. Servo Motors (2%)
+
+1. Lestu eftirfarandi og fylgdu tutorialnum í [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/),  settu upp á Breadboard:
+2. Svaraðu eftirfarandi spurningum:
+    1. Afhverju er heppilegt að nota rafþéttir með servo motor?
+    2. Hvað snýst servo motor margar gráður þegar hár púls (e. pulse) varir í 1.5 millisekúndur?
+
+## 4.3. DC Motors (1%)
 
 1. Fylgdu [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors) og settu upp á Breadboard:
 2. Svaraðu eftirfarandi spurningum:
