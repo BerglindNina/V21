@@ -1,6 +1,6 @@
 # Verkefni 4 - Mótorar (7%)
 
-Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem inniheldur eftirfarandi:
+Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem inniheldur eftirfarandi ([hér](./Verkefni4_svar_template.md) er sniðmát fyrir svarskjalið):
 
 - Svör við spurningum.
 - Tengla á myndbönd af verklegum verkefnum.
