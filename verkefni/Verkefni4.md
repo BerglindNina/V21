@@ -34,7 +34,6 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem i
 ## 4.4. H-Bridge (1%)
 
 1. Lestu þér til um [L293D H-Bridge](https://maker.pro/custom/projects/all-you-need-to-know-about-l293d).
-1. Svaraðu eftirfarandi spurningum:
     1. Hvað er hægt að gera með L293D?
     1. Hver er munurinn á L293 or L293D?
   
