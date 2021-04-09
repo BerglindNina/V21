@@ -13,7 +13,6 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem i
    - [Circuit Playground: C is for Capacitor (myndband, 7 mín.)](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
     1. Hver er munurinn á rafhlöðu og rafþétti?
 1. Kynntu þér [Transistora](https://www.instructables.com/lesson/Transistors/).
-1. Svaraðu eftirfarandi spurningum:
     1. Hvað gerir transistor?
     1. Hvað heita lappirnar á transistor?
 
