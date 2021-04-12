@@ -51,5 +51,4 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem i
         }
         ```
     1. L293D er með tvo +V pinna (8 and 16), útskýrðu þá.
-
-Ítarefni: [Tveir DC mótorar: speed and spinning direction of a DC motor](https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/)
+1. Lestu eftirfarandi og skoðau kóðann [Tveir DC mótorar: speed and spinning direction of a DC motor](https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/)
