@@ -5,7 +5,7 @@ Smelltu á Raw hér fyrir ofan og afritaðu svo textann í wiki síðuna þína 
 ## 4.1 Rafþéttar og tranistorar (1%)
 
 1. Hver er munurinn á rafhlöðu og rafþétti?
-    - Svar:
+    - Svar: Rafþéttir hleður í sig auka rafmagni frá rafhlöðunni og sendir það frá sér þegar raflaðan gefur ekki eins mikin rafmagn frá sér svo straumurinn er alltaf jafnur
 1. Hvað gerir transistor?
    - Svar:
 2. Hvað heita lappirnar á transistor?
